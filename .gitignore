@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Secrets
+.env
+
+# Backup created if expenses.json gets damaged
+expenses.json.bak
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
